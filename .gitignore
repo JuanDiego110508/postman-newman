@@ -1,0 +1,11 @@
+# Excluir README según la solicitud del usuario
+README.md
+
+# Archivos de compilación e IDE
+target/
+*.class
+.idea/
+.vscode/
+*.iml
+*.log
+.DS_Store
